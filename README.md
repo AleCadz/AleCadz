@@ -1,12 +1,24 @@
-👋 Hi, I’m @AleCadz
-<br />
-👀 I am interested in artificial intelligence
-<br />
-🌱 I’m currently learning MongoDB, MikroORM, GraphQL and Typescript
-<br />
-📫 Reach me via email: alekzcadz@gmail.com
-<br />
+<h1>👋 Hello, I'm @AleCadz!</h1>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=AleCadz)](https://github.com/AleCadz/github-readme-stats)
+<p>🚀 I’m passionate about <strong>TypeScript</strong> and exploring new technologies!</p>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleCadz&langs_count=8)
+<p>🌱 Currently learning:</p>
+<ul>
+  <li>🔗 MongoDB</li>
+  <li>🛠 MikroORM</li>
+  <li>🎯 GraphQL</li>
+  <li>⚙️ TypeScript</li>
+  <li>🧠 TensorFlow</li>
+</ul>
+
+<p>📬 Reach me via email: <a href="mailto:alekzcadz@gmail.com">alekzcadz@gmail.com</a></p>
+
+<p align="center">
+  <a href="https://github.com/AleCadz/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=AleCadz" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleCadz&langs_count=8" alt="Top Languages" />
+</p>
