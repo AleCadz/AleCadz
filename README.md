@@ -14,7 +14,7 @@
 <p>📬 Reach me via email: <a href="mailto:alekzcadz@gmail.com">alekzcadz@gmail.com</a></p>
 
 <p align="center">
-  <a href="https://github.com/AleCadz/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=AleCadz" alt="GitHub Stats" />
   </a>
 </p>
