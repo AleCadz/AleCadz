@@ -8,6 +8,7 @@
   <li>🛠 MikroORM</li>
   <li>🎯 TypeGraph</li>
   <li>⚙️ TypeScript</li>
+  <li>❄️ React</li>
   <li>🧠 TensorFlow</li>
 </ul>
 
