@@ -6,7 +6,7 @@
 <ul>
   <li>🔗 MongoDB</li>
   <li>🛠 MikroORM</li>
-  <li>🎯 GraphQL</li>
+  <li>🎯 TypeGraph</li>
   <li>⚙️ TypeScript</li>
   <li>🧠 TensorFlow</li>
 </ul>
