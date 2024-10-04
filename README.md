@@ -14,12 +14,11 @@
 
 <p>📬 Reach me via email: <a href="mailto:alekzcadz@gmail.com">alekzcadz@gmail.com</a></p>
 
-<p align="center">
+<div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AleCadz" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AleCadz" alt="GitHub Stats" width="45%" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleCadz&langs_count=8&hide=CMake,PHP,Dart" alt="Top Languages" />
-</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleCadz&langs_count=8&hide=CMake,PHP,Dart" alt="Top Languages" width="45%" />
+  </a>
+</div>
