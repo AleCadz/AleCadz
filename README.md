@@ -1,24 +1,24 @@
-<h1>👋 Hello, I'm @AleCadz!</h1>
+# 👋 Hello, I'm @AleCadz!
 
-<p>🚀 I’m passionate about <strong>TypeScript</strong> and exploring new technologies!</p>
+🚀 I’m passionate about **TypeScript** and exploring new technologies!
 
-<p>🌱 Currently learning:</p>
-<ul>
-  <li>🔗 MongoDB</li>
-  <li>🛠 MikroORM</li>
-  <li>🎯 TypeGraph</li>
-  <li>⚙️ TypeScript</li>
-  <li>❄️ React</li>
-  <li>🧠 TensorFlow</li>
-</ul>
+🌱 Currently learning:
+- 🔗 MongoDB
+- 🛠 MikroORM
+- 🎯 TypeGraph
+- ⚙️ TypeScript
+- ❄️ React
+- 🧠 TensorFlow
 
-<p>📬 Reach me via email: <a href="mailto:alekzcadz@gmail.com">alekzcadz@gmail.com</a></p>
+📬 Reach me via email: [alekzcadz@gmail.com](mailto:alekzcadz@gmail.com)
 
-<div style="display: flex; justify-content: space-between;">
+---
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AleCadz" alt="GitHub Stats" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AleCadz" alt="GitHub Stats" width="45%" style="border-radius: 10px; background-color: black; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleCadz&langs_count=8&hide=CMake,PHP,Dart" alt="Top Languages" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleCadz&langs_count=8&hide=CMake,PHP,Dart" alt="Top Languages" width="45%" style="border-radius: 10px; background-color: black; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
 </div>
